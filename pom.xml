@@ -6,11 +6,10 @@
 
   <groupId>com.loggingsystem</groupId>
   <artifactId>logging-system-parent</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <modules>
     <module>logging</module>
   </modules>
 </project>
-
