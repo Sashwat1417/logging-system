@@ -13,7 +13,7 @@
 
   <groupId>com.loggingsystem</groupId>
   <artifactId>logging</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.3-SNAPSHOT</version>
   <name>logging</name>
   <description>MongoDB-backed logging service</description>
 
@@ -53,4 +53,3 @@
     </plugins>
   </build>
 </project>
-
